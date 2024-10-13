@@ -1,6 +1,8 @@
-## Hi Lads 👋
+## Heyyo 
 
-i may be updated someday 🙃
+Hai Lads! im a student majoring in information systems, and this space is where i learn , experiment. 
+
+thank you for visiting!🙌
 <!--
 **harryzyn/harryzyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
